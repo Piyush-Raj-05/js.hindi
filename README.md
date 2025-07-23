@@ -1,2 +1,2 @@
-# js.hindi
-A code repo for javascript  series.
+myfirst-repo
+This is my first Git Repository.
